@@ -2,7 +2,7 @@
 
 Alcebiades Dal Col, Fabiano Petronetto, José R. de Oliveira Neto and Juliano B. Lima
 
-Python implementation related to the paper Windowed Hypergraph Fourier Transform and Vertex frequency Representation (doi coming soon).
+Python implementation related to the paper Windowed Hypergraph Fourier Transform and Vertex frequency Representation (https://doi.org/10.1016/j.sigpro.2024.109538).
 
 Originally compiled in Spyder using Anaconda3-2021.11 software (https://repo.anaconda.com/archive/)
 
