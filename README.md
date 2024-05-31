@@ -6,6 +6,6 @@ Python implementation related to the paper Windowed Hypergraph Fourier Transform
 
 Originally compiled in Spyder using Anaconda3-2021.11 software (https://repo.anaconda.com/archive/)
 
-Mendeley Data (coming soon)
+Mendeley Data (https://doi.org/10.17632/74xf64m34r.1)
 
 Code Ocean capsule (https://codeocean.com/capsule/2897183/tree)
